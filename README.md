@@ -1,3 +1,5 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header)
+
 ## 💻 About Me
 
 Hello! I am Lee Seungwoo. I am a novice programmer, studying at School of Computing at KAIST since 2019.   
