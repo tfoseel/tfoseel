@@ -30,8 +30,8 @@ If you are interested in realizing these ideas or able to give some advices, fee
 
 ## 🎈 Hobby
 
-Besides programming, I have two hobbies I enjoy the most : 🎹 Playing piano, 🏓 Playing table tennis.   
-Though I didn't mentioned here, I find many ideas here and they may be topics for further project! 
+Besides programming, I have two hobbies I enjoy the most : 🎹 Playing piano & 🏓 Playing table tennis.   
+Though I didn't mention here, I find many ideas here and they may be topics for further projects! 
 
 ## 🔗 Contacts
 
