@@ -13,7 +13,9 @@ My Github ID 'tfoseel' is a reversed text of 'leesoft', which is a nickname I fr
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leesoft)](https://solved.ac/leesoft/)
 
-* Currently I study algorithms and solving some problems in C++ on Baekjoon Online Judge, to improve an ability to implement what I think quickly and accurately. 
+* I'm currently studying Operationing Syetem, Computer Architecture, Machine Learning, and Database at KAIST in this semester.
+* I'm implementing [Pintos-kaist](https://github.com/casys-kaist/pintos-kaist) now. 
+* I studied algorithms and solved some problems in C++ on Baekjoon Online Judge, to improve an ability to implement what I think quickly and accurately. 
 Solving some problems, I'm trying to modularize some code snippets for frequently used algorithms or programming strategies(i.e. graph search, dynamic programming) 
 in [algorithm-problem-solving](https://github.com/tfoseel/algorithm-problem-solving) repository. 
 * Also, I am reading a book about machine learning & deep learning basics using Tensorflow and Keras.
