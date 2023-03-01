@@ -19,8 +19,8 @@ My Github ID 'tfoseel' is a reversed text of 'leesoft', which is a nickname I fr
 Solving some problems, I'm trying to modularize some code snippets for frequently used algorithms or programming strategies(i.e. graph search, dynamic programming) 
 in [algorithm-problem-solving](https://github.com/tfoseel/algorithm-problem-solving) repository. 
 * Also, I am reading a book about machine learning & deep learning basics using Tensorflow and Keras.
-* I usually use these languages : Python, C++.
-* I experienced these languages : Python, MATLAB, Java, F#, R, Scala, C, C++.
+* I usually use these languages : Python, C, C++.
+* I experienced these languages : Python, MATLAB, Java, F#, R, Scala, C, C++, Assembly.
 * I experienced these tools/frameworks : HTML/CSS/JS, jQuery, Node.js, Express, React, Redux, Android Studio, Firebase.
 
 ## 💡 Idea
