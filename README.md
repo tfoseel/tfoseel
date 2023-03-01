@@ -11,7 +11,7 @@ My Github ID 'tfoseel' is a reversed text of 'leesoft', which is a nickname I fr
 
 ## ✏️ Study
 
-<img src="http://mazandi.herokuapp.com/api?handle=leesoft&theme=warm"/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leesoft)](https://solved.ac/leesoft/)
 
 * Currently I study algorithms and solving some problems in C++ on Baekjoon Online Judge, to improve an ability to implement what I think quickly and accurately. 
 Solving some problems, I'm trying to modularize some code snippets for frequently used algorithms or programming strategies(i.e. graph search, dynamic programming) 
