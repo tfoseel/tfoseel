@@ -7,8 +7,6 @@ Recently I started writing posts on velog and upload some code snippets on Githu
 I'm interested in finding out problems in daily life or making contents that makes people feel better.   
 My Github ID 'tfoseel' is a reversed text of 'leesoft', which is a nickname I frequently use.
 
-[![Leesoft's GitHub stats](https://github-readme-stats.vercel.app/api?username=tfoseel)](https://github.com/tfoseel)
-
 ## ✏️ Study
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leesoft)](https://solved.ac/leesoft/)
