@@ -11,7 +11,7 @@ My Github ID 'tfoseel' is a reversed text of 'leesoft', which is a nickname I fr
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leesoft)](https://solved.ac/leesoft/)
 
-* I'm currently studying Operationing Syetem, Computer Architecture, Machine Learning, and Database at KAIST in this semester.
+* I'm currently studying Operationing Syetem, Computer Architecture, Machine Learning, Deep Learning, and Database at KAIST in last semester.
 * I implemented Project 1~3 of [Pintos-kaist](https://github.com/casys-kaist/pintos-kaist).
 * I implemented Project 1~4 of MIPS simulator project in Computer Organization of KAIST. 
 * I studied algorithms and solved some problems in C++ on Baekjoon Online Judge, to improve an ability to implement what I think quickly and accurately. 
