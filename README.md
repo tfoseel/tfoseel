@@ -41,7 +41,6 @@ Though I didn't mention here, I find many ideas here and they may be topics for 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=smilelee9)](https://velog.io/@smilelee9)
 * Email : [smilelee9@naver.com](smilelee9@naver.com)
 * Blog : [https://velog.io/@smilelee9](https://velog.io/@smilelee9)
-* Instagram : [https://www.instagram.com/lee.soft/](https://www.instagram.com/lee.soft/)
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
