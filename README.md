@@ -6,6 +6,7 @@ Hello! I am Lee Seungwoo. I am a novice programmer, studying at School of Comput
 I'm interested in finding out problems in daily life or making contents that makes people feel better.   
 My Github ID 'tfoseel' is a reversed text of 'leesoft', which is a nickname I frequently use.
 You can take a look of my [CV](https://drive.google.com/file/d/1_Tb5F5hBEN0N_hHZoS80idRCtrjY_URm/view?usp=sharing) here.
+
 Thank you for visiting my page!
 
 ## ✏️ Study
