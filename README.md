@@ -6,7 +6,7 @@ Hello! I’m **Lee Seungwoo**, a Computer Science undergraduate at **KAIST**, pa
 
 My GitHub ID **tfoseel** is a reversed version of **leesoft**, a nickname I often go by.
 
-Check out my [CV](https://drive.google.com/file/d/1_Tb5F5hBEN0N_hHZoS80idRCtrjY_URm/view?usp=sharing) for a detailed overview of my work.
+Check out my [CV](https://drive.google.com/file/d/1xA5StiR1bYY2BtB-bKmmCDb9dxNDxQAD/view?usp=sharing) for a detailed overview of my work.
 
 ## ✏️ Study & Research
 
