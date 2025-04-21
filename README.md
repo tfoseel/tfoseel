@@ -40,8 +40,6 @@ I love thinking about ideas that connect tech with human experience. A few sketc
 - 🎹 Playing piano  
 - 🏓 Playing table tennis  
 
-These hobbies often spark new tech ideas—some of which have already become real projects.
-
 ## 🔗 Contacts
 
 📧 Email: [smilelee9@naver.com](mailto:smilelee9@naver.com)  
