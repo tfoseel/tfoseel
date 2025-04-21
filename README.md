@@ -2,45 +2,60 @@
 
 ## 💻 About Me
 
-Hello! I am Lee Seungwoo. I am a novice programmer, studying at School of Computing at KAIST since 2019.
-I'm interested in finding out problems in daily life or making contents that makes people feel better.   
-My Github ID 'tfoseel' is a reversed text of 'leesoft', which is a nickname I frequently use.
-You can take a look of my [CV](https://drive.google.com/file/d/1_Tb5F5hBEN0N_hHZoS80idRCtrjY_URm/view?usp=sharing) here.
+Hello! I’m **Lee Seungwoo**, a Computer Science undergraduate at **KAIST**, passionate about crafting deeply personal and meaningful tech solutions—just like a love letter written for one, but touching many.
 
-Thank you for visiting my page!
+My GitHub ID **tfoseel** is a reversed version of **leesoft**, a nickname I often go by.
 
-## ✏️ Study
+Check out my [CV](https://drive.google.com/file/d/1_Tb5F5hBEN0N_hHZoS80idRCtrjY_URm/view?usp=sharing) for a detailed overview of my work.
+
+---
+
+## ✏️ Study & Research
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leesoft)](https://solved.ac/leesoft/)
 
-* I'm currently studying Operationing Syetem, Computer Architecture, Machine Learning, Deep Learning, and Database at KAIST in last semester.
-* I implemented Project 1~3 of [Pintos-kaist](https://github.com/casys-kaist/pintos-kaist).
-* I implemented Project 1~4 of MIPS simulator project in Computer Organization of KAIST. 
-* I studied algorithms and solved some problems in C++ on Baekjoon Online Judge, to improve an ability to implement what I think quickly and accurately. 
-Solving some problems, I'm trying to modularize some code snippets for frequently used algorithms or programming strategies(i.e. graph search, dynamic programming) 
-in [algorithm-problem-solving](https://github.com/tfoseel/algorithm-problem-solving) repository. 
-* Also, I am reading a book about machine learning & deep learning basics using Tensorflow and Keras.
-* I usually use these languages : Python, C, C++.
-* I experienced these languages : Python, MATLAB, Java, F#, R, Scala, C, C++, Assembly.
-* I experienced these tools/frameworks : HTML/CSS/JS, jQuery, Node.js, Express, React, Redux, Android Studio, Firebase.
+🧪 **Currently focused on research and development in**:
+- **Audio AI** @ NCSOFT: VAE-based sound retrieval, singing voice separation
+- **Quantum Computing**: Genetic algorithms, quantum circuit optimization, LLM evaluation
+- **Systems Projects**: PintOS-KAIST, embedded development
 
-## 💡 Idea
+📚 **Projects** (selected):
+- [**GFN-Check**](https://github.com/tfoseel/gfn-check): Used GFlowNet for better test generation
+- [**LUMOS**](https://github.com/tfoseel/cs330-lumos): Crosswalk assistant for visually impaired
+- [**Well Plate Tracker**](https://github.com/tfoseel/well-plate-tracker): Arduino + React lab tool
+- [**Quantum State Discrimination**](https://github.com/tfoseel/classical-shadows): Hackathon-winning QML project
+- [**Topological Quantum Compiling**](https://github.com/tfoseel/ga-for-tqc): GA optimization of braidwords
 
-I have some ideas that I want to realize and posted some idea notes in my blog.
-* [farStar](https://velog.io/@smilelee9/%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4-%EB%85%B8%ED%8A%B8-%EB%B3%84%EC%9E%90%EB%A6%AC-%EA%B0%90%EC%84%B1-SNS-%EC%95%B1-farStar) : A sentimantal SNS app with stargazing features.
-* [Rock/Scissors/Paper Glove](https://velog.io/@smilelee9/%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4-%EB%85%B8%ED%8A%B8-%EA%B0%80%EC%9C%84%EB%B0%94%EC%9C%84%EB%B3%B4-%ED%95%84%EC%8A%B9-%EC%9E%A5%EA%B0%91) : A wearable glove, makes its user always win.
-If you are interested in realizing these ideas or able to give some advices, feel free to contact me!
+🛠️ **Languages & Tools**:
+- **Frequently used:** Python (in projects), C/C++ (in courseworks)
+- **Also used:** Kotlin, MATLAB, R, Assembly, Java, Scala, F#, Pennylane, React, Firebase, TensorFlow, PyTorch, Django
 
-## 🎈 Hobby
+---
 
-Besides programming, I have two hobbies I enjoy the most : 🎹 Playing piano & 🏓 Playing table tennis.   
-Though I didn't mention here, I find many ideas here and they may be topics for further projects! 
+## 💡 Ideas
+
+I love thinking about ideas that connect tech with human experience. A few sketches from my blog:
+
+* 🌌 [**farStar**](https://velog.io/@smilelee9/%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4-%EB%85%B8%ED%8A%B8-%EB%B3%84%EC%9E%90%EB%A6%AC-%EA%B0%90%EC%84%B1-SNS-%EC%95%B1-farStar): A stargazing-inspired emotional SNS  
+* 🥊 [**Rock/Scissors/Paper Glove**](https://velog.io/@smilelee9/%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4-%EB%85%B8%ED%8A%B8-%EA%B0%80%EC%9C%84%EB%B0%94%EC%9C%84%EB%B3%B4-%ED%95%84%EC%8A%B9-%EC%9E%A5%EA%B0%91): A glove that makes sure you *always win* in Rock-Paper-Scissors!
+
+---
+
+## 🎈 Hobbies
+
+Outside coding, I find inspiration through:  
+🎹 Playing piano  
+🏓 Playing table tennis  
+
+These hobbies often spark new tech ideas—some of which have already become real projects.
+
+---
 
 ## 🔗 Contacts
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=smilelee9)](https://velog.io/@smilelee9)
-* Email : [smilelee9@naver.com](smilelee9@naver.com)
-* Blog : [https://velog.io/@smilelee9](https://velog.io/@smilelee9)
+📧 Email: [smilelee9@naver.com](mailto:smilelee9@naver.com)  
+🐙 GitHub: [https://github.com/tfoseel](https://github.com/tfoseel)
 
+---
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
