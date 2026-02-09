@@ -22,11 +22,6 @@ My GitHub ID **tfoseel** is simply **leesoft** reversed — a reminder to build 
 - **Quantum Computing** — exploring how abstract computation reveals structure in reality  
 - **Systems & Infrastructure** — making ideas scale from a single spark to something real
 
-🧪 **Recent Work**
-- **BlueSignum (2025–)** — backend developer for *DailyBean*, building scalable emotional wellness infrastructure with Django + GCP  
-- **NCSOFT Audio AI Lab (2024)** — research on VAE-based sound retrieval and duet singing voice separation  
-- **KAIST QST Team (2023–)** — quantum machine learning and circuit optimization research  
-
 📰 **Publications**
 - *Resource-efficient Algorithm for Estimating the Trace of Quantum State Powers*, **Quantum**, vol. 9, 1832 (2025)  
 - *Disentangling Quantum Neural Networks for Unified Estimation of Quantum Entropies and Distance Measures*, **Physical Review A**, vol. 110, 062418 (2024)
