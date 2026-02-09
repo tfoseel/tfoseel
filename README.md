@@ -2,7 +2,7 @@
 
 ## 💻 About Me
 
-Hello! I’m **Lee Seungwoo**, a **Computer Science graduate from KAIST** and a **backend developer at [BlueSignum](https://www.bluesignum.com/)** — the team behind *DailyBean*, a global mental wellness app loved by over 200,000 users.  
+Hello! I’m **Lee Seungwoo**, a **Computer Science graduate from KAIST** and a **product engineer at [Yolda Company](https://www.yolda.kr/)** — which provides homecare O2O services such as arrangements, or smart housework.
 
 I believe that **technology, at its best, feels like a love letter** — written for one, yet capable of touching countless hearts.  
 That philosophy guides my work, from research in **quantum AI** to **apps that heal human emotion**.
