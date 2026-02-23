@@ -20,7 +20,7 @@ That philosophy guides my work, from quantum AI research to infrastructure that 
 
 My GitHub ID **tfoseel** is simply **leesoft** reversed — a reminder to build things that reflect who I am, turned inside out.
 
-📄 [View my CV](https://drive.google.com/file/d/1xA5StiR1bYY2BtB-bKmmCDb9dxNDxQAD/view?usp=sharing)
+📄 [View my CV](https://drive.google.com/file/d/1SPmkfnv5FA8Fhmubzn6m7QSXkqB1w2XC/view?usp=drive_link)
 
 ---
 
