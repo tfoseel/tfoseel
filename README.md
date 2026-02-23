@@ -2,10 +2,21 @@
 
 ## 💻 About Me
 
-Hello! I’m **Lee Seungwoo**, a **Computer Science graduate from KAIST** and a **product engineer at [Yolda Company](https://www.yolda.kr/)** — which provides homecare O2O services such as arrangements, or smart housework.
+Hello! I’m **Lee Seungwoo**, a **Computer Science graduate from KAIST** and a **Product Engineer at [Yolda Company](https://www.yolda.kr/)** — building what I call a *Space OS*.
+
+At Yolda, I design systems that help spaces remember their own context.  
+Not just where things are — but *why they are there*, and how people live within them.
+
+I work across the entire product spectrum:
+- product planning and user research (including on-site interviews and real home cleaning),
+- AI system design (LLM, RAG pipelines, structured reasoning),
+- voice interfaces,
+- backend architecture and UX logic.
+
+My goal is to turn physical space into something that can be structured, understood, and gently assisted by technology.
 
 I believe that **technology, at its best, feels like a love letter** — written for one, yet capable of touching countless hearts.  
-That philosophy guides my work, from research in **quantum AI** to **apps that heal human emotion**.
+That philosophy guides my work, from quantum AI research to infrastructure that supports everyday human life.
 
 My GitHub ID **tfoseel** is simply **leesoft** reversed — a reminder to build things that reflect who I am, turned inside out.
 
